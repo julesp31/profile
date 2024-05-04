@@ -1,0 +1,13 @@
+body {
+  font-family: Montserrat;
+  background-image: url("https://www.zingerbug.com/Backgrounds/background_images/pastel_opal_pattern.jpg");
+  background-size: cover; /* Ensures the background image covers the entire element */
+  color: #337357;
+  text-align: center;
+  padding: 4px;
+}
+
+h1, h3 {
+  font-family: Playfair;
+  color: #5E1675;
+}
